@@ -3,6 +3,7 @@ import { AppComponent } from './app.component';
 
 describe('AppComponent', () => {
   beforeEach(async(() => {
+    this.foo = 0;
     TestBed.configureTestingModule({
       declarations: [
         AppComponent
