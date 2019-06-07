@@ -2,7 +2,7 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.0.2.
 
-Reference project to demonstrate bug in angular/cli.
+Reference project to demonstrate bug in angular/cli issue [#14702](https://github.com/angular/angular-cli/issues/14702)
 
 ## Development server
 
